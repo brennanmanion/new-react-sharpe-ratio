@@ -1,0 +1,14 @@
+{
+    "data":[
+        {
+            "tick":"SPY",
+            "price":"311",
+            "twoHundredDayMovingAverage":"293"
+        },
+        {
+            "tick":"TLT",
+            "price":"140",
+            "twoHundredDayMovingAverage":"133"
+        }
+    ]
+}
